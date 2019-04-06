@@ -19,7 +19,7 @@
 	},
 	"motions":{
 		"idle":[
-			{"file":"motions/Idle.mtn"}
+			{"file":"motions/idle.mtn"}
 		],
         "sleepy":[
             {"file":"motions/Nemui.mtn"}

@@ -4,5 +4,10 @@
 
 欢迎多多支持保罗和他的梦象 Live2D 模型站~
 
+一键cdn：https://cdn.jsdelivr.net/gh/sldarkwd/pictures@f9297e4/model/snow-miku/model.json
+
+宽：500
+高：500
+
 保罗博客：https://paugram.com
 梦象模型：https://mx-model.ga

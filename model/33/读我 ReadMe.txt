@@ -6,5 +6,7 @@
 
 一键cdn：https://cdn.jsdelivr.net/gh/sldarkwd/pictures@49be054/model/33/model.json
 
+宽：180
+高：500
 保罗博客：https://paugram.com
 梦象模型：https://mx-model.ga
